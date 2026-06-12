@@ -1,0 +1,37 @@
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net10.0\appsettings.json
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net10.0\Expense Tracker.staticwebassets.endpoints.json
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net10.0\Expense Tracker.exe
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net10.0\Expense Tracker.deps.json
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net10.0\Expense Tracker.runtimeconfig.json
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net10.0\Expense Tracker.dll
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net10.0\Expense Tracker.pdb
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net10.0\Expense Tracker.csproj.AssemblyReference.cache
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net10.0\Expense Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net10.0\Expense Tracker.AssemblyInfoInputs.cache
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net10.0\Expense Tracker.AssemblyInfo.cs
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net10.0\Expense Tracker.csproj.CoreCompileInputs.cache
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net10.0\Expense Tracker.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net10.0\Expense Tracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net10.0\scopedcss\bundle\Expense Tracker.styles.css
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net10.0\Expense .AD010034.Up2Date
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net10.0\Expense Tracker.dll
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net10.0\refint\Expense Tracker.dll
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net10.0\Expense Tracker.pdb
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net10.0\Expense Tracker.genruntimeconfig.cache
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net10.0\ref\Expense Tracker.dll
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pmegh\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
