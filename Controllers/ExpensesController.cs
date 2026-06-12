@@ -7,17 +7,25 @@ namespace Expense_Tracker.Controllers
     [Route("api/[controller]")]
     public class ExpensesController : ControllerBase
     {
-        // Temporary in-memory list to store expenses
         private static List<Expense> expenses = new List<Expense>();
 
-        // GET: api/expenses
         [HttpGet]
         public ActionResult<List<Expense>> GetAll()
         {
             return Ok(expenses);
-        }   
+        }
 
-        // POST: api/expenses
+        [HttpGet("{id}")]
+        public ActionResult<Expense> GetById(int id)
+        {
+            var expense = expenses.FirstOrDefault(e => e.Id == id);
+            if (expense == null)
+            {
+                return NotFound();
+            }
+            return Ok(expense);
+        }
+
         [HttpPost]
         public ActionResult<Expense> Create(Expense expense)
         {
@@ -25,6 +33,18 @@ namespace Expense_Tracker.Controllers
             expense.Date = DateTime.Now;
             expenses.Add(expense);
             return CreatedAtAction(nameof(GetAll), expense);
+        }
+
+        [HttpDelete("{id}")]
+        public ActionResult Delete(int id)
+        {
+            var expense = expenses.FirstOrDefault(e => e.Id == id);
+            if (expense == null)
+            {
+                return NotFound();
+            }
+            expenses.Remove(expense);
+            return NoContent();
         }
     }
 }
