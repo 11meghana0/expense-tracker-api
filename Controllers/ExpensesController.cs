@@ -15,7 +15,7 @@ namespace Expense_Tracker.Controllers
         public ActionResult<List<Expense>> GetAll()
         {
             return Ok(expenses);
-        }
+        }   
 
         // POST: api/expenses
         [HttpPost]
